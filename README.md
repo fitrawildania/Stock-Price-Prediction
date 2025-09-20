@@ -59,7 +59,11 @@ The application fetches stock data directly from **Yahoo Finance (yfinance)**, p
 └── README.md             # Project description
 ```
 ---
+📸 Preview
 
+![📊 Stock Monitoring Dashboard · Streamlit_page-0001](https://github.com/user-attachments/assets/e081932e-7859-4f49-8063-b42941f813cc)
+
+---
 ## 🌍 Deployment
 
 This app deployed on **Streamlit Community Cloud** 
